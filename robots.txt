@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://inturahe.github.io/sitemap.html.gz
+Sitemap: https://inturahe.github.io/app/sitemap.html.gz
+Sitemap: https://inturahe.github.io/assets/sitemap.html.gz
+Sitemap: https://inturahe.github.io/css/sitemap.html.gz
+Sitemap: https://inturahe.github.io/data/sitemap.html.gz
+Sitemap: https://inturahe.github.io/includes/sitemap.html.gz
+Sitemap: https://inturahe.github.io/item/sitemap.html.gz
+Sitemap: https://inturahe.github.io/src/sitemap.html.gz
